@@ -15,7 +15,7 @@ const path = require("path")
  * The folder that you want to copy need's to have some files.
  * 
  * Optionally: You can change the Copy folder's name
- * Optionally: You can change the Copy filse's name
+ * Optionally: You can change the Copy files's name
  * 
  * start the script: node app
  */
